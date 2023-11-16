@@ -1,16 +1,24 @@
-### Hi there 👋
+# Benvenuti nel mio profilo GitHub! 👋
 
-<!--
-**VLuca997/VLuca997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chi sono
 
-Here are some ideas to get you started:
+Sono Luca Vita, uno sviluppatore Full-Stack formatosi presso Boolean Academy, appassionato di Coding, IT & Tech, Scienza, Problem solving. Mi dedico a creare soluzioni innovative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cosa faccio
+
+- 💻 Attualmente lavoro su progetti Con tecnologie Javascript e PHP.
+- 🌱 Sto imparando continuamente nuove tecnologie come React per il Front-end e Laravel per il Back-end.
+- 🤝 Sono interessato a connettermi con altri sviluppatori, collaborare su progetti open source e contribuire alla comunità.
+
+
+
+## Contattami
+
+Se sei interessato a collaborare, discutere di tecnologia o semplicemente vuoi fare quattro chiacchiere, sentiti libero di contattarmi su:
+
+- Email: [vluca997@gmail.com](mailto:vluca997@gmail.com)
+- LinkedIn: [vitaluca997](https://www.linkedin.com/in/vitaluca997/)
+
+Non vedo l'ora di connettermi con altri sviluppatori appassionati e contribuire alla community open source!
+
+Grazie per aver visitato il mio profilo GitHub. 😊
